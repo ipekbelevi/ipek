@@ -1,0 +1,6 @@
+C:\Users\stone\source\repos\IpekThoshEmlak\IpekThoshEmlak.Core\bin\Debug\IpekThoshEmlak.Core.dll
+C:\Users\stone\source\repos\IpekThoshEmlak\IpekThoshEmlak.Core\bin\Debug\IpekThoshEmlak.Core.pdb
+C:\Users\stone\source\repos\IpekThoshEmlak\IpekThoshEmlak.Core\obj\Debug\IpekThoshEmlak.Core.csprojAssemblyReference.cache
+C:\Users\stone\source\repos\IpekThoshEmlak\IpekThoshEmlak.Core\obj\Debug\IpekThoshEmlak.Core.csproj.CoreCompileInputs.cache
+C:\Users\stone\source\repos\IpekThoshEmlak\IpekThoshEmlak.Core\obj\Debug\IpekThoshEmlak.Core.dll
+C:\Users\stone\source\repos\IpekThoshEmlak\IpekThoshEmlak.Core\obj\Debug\IpekThoshEmlak.Core.pdb
